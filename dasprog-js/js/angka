@@ -1,0 +1,17 @@
+- angka tanpa desimal
+        - 10, 1500, 123456
+        - akurat sampai 15 digit
+
+- angka dengan desimal
+        - 3.14, 0.5, 100.00
+
+- eksponen
+        - 123e5 // 12300000
+        - 123-e5 // 0.00123
+
+- bilangan negatif 
+
+angka special
+    Infinity (2/0)
+    -Infinity (-2/0)
+    NaN (Not a Number) (0/0)

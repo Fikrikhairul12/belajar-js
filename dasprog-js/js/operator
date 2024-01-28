@@ -1,0 +1,36 @@
+operator 
+- aritmatika
+- penugasan
+- perbandingn
+- logika
+- string
+- kondisional
+- typof
+
+semua operator kecuali kondisional dn type of adlh binary, operator kondisional adlh ternary, dn operator typeof adlh unary
+
+binary (sebuah operator yg membutuhkan 2 operand) {operand1 (+) operand2}
+unary (membutuhkan 1 operand) {operator operand}
+ternary (membutuhkan 3 operand)
+
+# aritmatika
++, -, *, /, %
+
+# penugasan
+=
+
+# perbandingan
+==, !=, === (strict/identitas), !==, >, <, >=, <=
+
+# logika
+&& (and), || (or), ! (not)
+exmp = (x % 2 == 0) && (x < 10)
+
+# string
++
+
+# typeof
+typeof(operand)
+
+# kondisional
+(kondisi) ? benar : salah

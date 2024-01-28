@@ -1,0 +1,16 @@
+# Variabel
+sebuah tempat/wadah yg memiliki nama, yg dgunakan untk meenyimpan nilai
+    deklarasi, inisialisasi, assignment
+    note: variabel gblh pke spasi, blh pke angka tpi gk blh diawali dgn angka
+
+# deklarasi
+mendaftarkn variabel ke dlm lingkup yg sesuai
+- var
+- let
+- const
+
+# inisialisasi
+menyediakan memori untuk variabel
+
+# assingment
+menetapkn nilai yg spesifik untk di simpan kdlm variabel itu sndri

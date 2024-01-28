@@ -1,0 +1,15 @@
+# escape character
+\0 = karakter null
+\' = '
+\" = "
+\\ = \
+\n = new line / garis baru
+\t = tab
+\b = backspace
+\uXXXX = unicode
+
+# concatenation
++, ==
+
+# .length 
+panjang string
