@@ -1,0 +1,57 @@
+- function adlh kunci utama pd javascript, yg mmbuat javascript sangat powerfull.
+
+- function 
+    - sebuah sub-program / sub routine yg dapat 'dipanggil' di bagian lain pada program
+    - merupakan struktur dasar pembentuk dari javascript
+    - dsb juga sbgai prosedur (kumpulan statement untuk melakukan tugas atau menghitung nilai)
+    - untk dpt menggunakanny, kita hrs 'membuat' terlebih dahulu function tsb, lalu 'memanggil'nya
+    - trmsk kdlm first-class object
+
+- knp function?
+    - reusability (DRY : Do not Repeat Yourself)
+    - dekomposisi / abstraksi
+    - modularitas
+
+- kategori function
+    - built-in function
+        - fungsi yg sdh disediakan / 'dibuat' oleh js
+        - tinggal 'memanggil'nya aja
+        - contoh : alert, prompt, confirm, dll
+        - dn masih bnyk lgi
+
+        * contoh built-in function: string
+            - charAt(), slice(), split(), toString(), toLowerCase(), toUpperCase(), ...
+        * contoh built-in function: math
+            - sin(), cos(), tan(), random(), round(), floor(), ceil(), log(), ...
+        * dn lain-lain
+
+    - user-defined function
+        - fungsi yg kita buat sndri
+        - menggunakan keyword function
+        - nama function (optional)
+        - parameter / argument
+            - disimpan dlm ()
+            - boleh ada atau tidak, jika ada blh lbh dri satu
+            - dpisah dgn koma jika lbh dari 1
+        - function body, 'dibungkus' dgn {}
+        - dapat mengembalikan nilai (return value) atau tidak
+
+        * membuat user-defined function
+            - dgn deklarasi / function declaration
+                - cnth :
+                function jmlhduablngn(a, b){
+                    var total;
+                    total = a + b;
+                    
+                    return total;
+                }
+            - dgn ekspresi / function expression
+                - cnth : 
+                var jmlhduablngn = function(a, b){
+                    var total;
+                    total = a + b;
+                    
+                    return total;
+                }
+        * menjalankan function
+            - alert(jmlhduablngn(1,2));
