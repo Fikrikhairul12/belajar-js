@@ -1,0 +1,14 @@
+- array adlh susunan sistematis dri object yg serupa
+- array adlh tipe data yg dgunakan untk mendeskripsikn kumpulan elemen (nilai atau variabel), yg tiap-tiap elemenny mmiliki index
+
+- contoh
+    var hari = ['senin','selasa','rabu'];
+
+array
+    - variabel jamak, yg mempunyai bnyk elemen dn diacu dgn nama yg sama
+    - kumpulan pasangan ke dan nilai / key and value pair
+    - key adalah index pd array dgn tipe integer yg dimulai dari 0
+    - array pd javascript bertipe object
+    - array pd javascript memiliki fungsi / method length untk megnhitung jmlh elemen di dlmny
+    - elemen pd array boleh memiliki tipe data yg berbeda
+
